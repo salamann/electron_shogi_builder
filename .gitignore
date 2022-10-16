@@ -1,1 +1,3 @@
 docker/app/Dockerfile.bak
+docker/app/Dockerfile
+docker/app/ElectronShogi-1.3.0.AppImage
